@@ -1,0 +1,9 @@
+<!--
+ * @Author: nns4
+ * @Date: 2020-01-01 10:30:11
+ * @LastEditors: nns4
+ * @FilePath: /gulp4/demo_site/src/public/header.shtml
+ * @Description: 
+ -->
+<script src="../assets/js/assets.js"></script>
+<h2>这个是头</h2>

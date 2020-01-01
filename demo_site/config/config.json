@@ -1,0 +1,11 @@
+{
+    "serverPort": "4444",
+    "dev": {
+        "env": "测试",
+        "apiUrl": "//test.haier.com"
+    },
+    "pro": {
+        "env": "生产",
+        "apiUrl": "//www.haier.com"
+    }
+}
